@@ -1,6 +1,8 @@
 [submodule "movie-searcher-server"]
 	path = movie-searcher-server
 	url = git@github.com:gokceyucel/movie-searcher-server.git
+	branch = master
 [submodule "movie-searcher-client"]
 	path = movie-searcher-client
 	url = git@github.com:gokceyucel/movie-searcher-client.git
+	branch = master
