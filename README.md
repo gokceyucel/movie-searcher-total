@@ -1,6 +1,6 @@
 ## How?
 1. Get
-`git clone --recursive-submodules https://github.com/gokceyucel/movie-searcher-total.git`
+`git clone --recurse-submodules git@github.com:gokceyucel/movie-searcher-total.git`
 2. Update
 `git submodule update --recursive --remote`
 3. Run
