@@ -83,3 +83,9 @@ Overall ~11 hours.
 - Definetly use Create React App boilerplate in frontend.
 - Use some external key-value storage for cache in backend. Like Redis.
 - Put more effort on project structure and merge all repositories into a mono repo to avoid using git submodules and make it simpler.
+
+# Some screenshots
+![Desktop Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/chrome-desktop.png "Desktop Screenshot") 
+
+![Mobile Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/chrome-mobile.png "Mobile Screenshot")
+
