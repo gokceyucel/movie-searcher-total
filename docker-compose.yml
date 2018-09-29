@@ -1,5 +1,4 @@
 version: '3'
-
 services:
   movie-searcher-server:
     container_name: movie-searcher-server
@@ -11,7 +10,8 @@ services:
     container_name: movie-searcher-client
     build:
       context: ./movie-searcher-client
-    environment:
-      - API_URL=movie-searcher-server
+      args:
+        - API_URL=localhost
+        - API_PORT=8080
     ports:
       - 9090:80
