@@ -16,6 +16,9 @@ git submodule update --recursive --remote
 
 # Run
 docker-compose up
+
+# Run with --build option to get updates
+docker-compose up --build
 ```
 Now go to "http://127.0.0.1:9090/" in your favorite web browser. (Chrome v69+ is preferred)
 
