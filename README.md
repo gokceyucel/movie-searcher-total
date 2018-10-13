@@ -90,5 +90,5 @@ Overall ~11 hours.
 # Some screenshots
 ![Desktop Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/chrome-desktop.png "Desktop Screenshot") 
 
-![Mobile Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/chrome-mobile.png "Mobile Screenshot")
+![Mobile Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/safari-mobile-ios.png "Mobile Screenshot")
 
