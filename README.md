@@ -88,7 +88,9 @@ Overall ~11 hours.
 - Put more effort on project structure and merge all repositories into a mono repo to avoid using git submodules and make it simpler.
 
 # Some screenshots
-![Desktop Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/chrome-desktop.png "Desktop Screenshot") 
+![Desktop Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/chrome-desktop.jpg "Desktop Screenshot") 
 
-![Mobile Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/safari-mobile-ios.png "Mobile Screenshot")
+![Mobile Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/chrome-mobile.jpg "Mobile Screenshot")
+
+![Mobile Screenshot](https://github.com/gokceyucel/movie-searcher-total/blob/master/screenshots/safari-mobile-ios.jpg "Mobile Screenshot")
 
